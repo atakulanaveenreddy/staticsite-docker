@@ -7,3 +7,4 @@ docker-compose version
 
 
 This is practice class i want to learn jenkins
+I want to be devops engineer
